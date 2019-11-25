@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "633574682625",
+    "firebase_url": "https://utadeo-cde8e.firebaseio.com",
+    "project_id": "utadeo-cde8e",
+    "storage_bucket": "utadeo-cde8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633574682625:android:3244ec3c07a221d165d000",
+        "android_client_info": {
+          "package_name": "aplicaciones.moviles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633574682625-fddub1df6dv4spgbdppg6b42k5b52om2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aplicaciones.moviles",
+            "certificate_hash": "d28e37fcc9ae13c481a81c2a44086573b4d269fe"
+          }
+        },
+        {
+          "client_id": "633574682625-231fdgd4346ov8jfqv4useobuv5mq1ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEEiuXZUBB_6_J8B0IWiqFzyrcQ6isnUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633574682625-231fdgd4346ov8jfqv4useobuv5mq1ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
